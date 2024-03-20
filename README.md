@@ -30,4 +30,4 @@ The feature we used is from wav2vec2, which could be downloaded from https://hug
 
 ## Citation
 
-Shuhua Liu, Chunyu Zhang, Binshuai Li, Niantong Qin, Huanting Cheng, Huayu Zhang, "TIA: A Teaching Intonation Assessment Dataset in Real Teaching Situations" in ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024.
+S. Liu, C. Zhang, B. Li, N. Qin, H. Cheng and H. Zhang, "TIA: A Teaching Intonation Assessment Dataset in Real Teaching Situations," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 1066-1070, doi: 10.1109/ICASSP48485.2024.10447407.
